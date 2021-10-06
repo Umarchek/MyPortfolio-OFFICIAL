@@ -13,6 +13,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { CustomCursor } from './components/CustomCursor/CustomCursor'
 import dotenv  from 'dotenv'
 import ScrollToTop from "./components/ScrollToTop";
+
 dotenv.config({ path: '/custom/path/to/.env' })
 function App() {
   const [load, upadateLoad] = useState(true);
