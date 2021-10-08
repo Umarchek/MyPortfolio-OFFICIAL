@@ -1,5 +1,2 @@
-const cursor = document.querySelector('.app-cursor');
-document.addEventListener('mousemove', (e)=>{
-    cursor.style.left = e.pageX + 'px';
-    cursor.style.top = e.pageY + 'px';
-});
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2609384275511449"
+    crossorigin="anonymous"></script>

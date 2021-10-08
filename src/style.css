@@ -22,27 +22,6 @@ html {
   color: var(--imp-text-color) !important;
 }
 
-/* cursor */
-.app-cursor {
-  position: fixed;
-  top: 0;
-  left: 0;
-  transform: translate(-50%, -50%);
-  background-color: white;
-  mix-blend-mode: difference;
-  transition: 0.1s;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  pointer-events: none;
-}
-
-html,
-body,
-*,
-button {
-  cursor: none !important;
-}
 
 /* --------- */
 /*  Preloader */
