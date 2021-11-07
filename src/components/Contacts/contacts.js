@@ -26,7 +26,7 @@ function contacts() {
               style={{ display: "flex", alignItems: "center" }}
             >
               <ImTelegram className="telegram__icon" />
-              <h1 style={{ color: "#0088cc" }}>Telegram</h1>
+              <h1 style={{ color: "#fff" }}>Telegram</h1>
             </a>
             <a
               target="_blank"
@@ -34,7 +34,7 @@ function contacts() {
               style={{ display: "flex", alignItems: "center" }}
             >
               <ImInstagram className="instagram__icon" />
-              <h1 style={{ color: "#8a3ab9" }}>Instagram</h1>
+              <h1 style={{ color: "#fff" }}>Instagram</h1>
             </a>
             <a
               target="_blank"
@@ -42,7 +42,7 @@ function contacts() {
               style={{ display: "flex", alignItems: "center" }}
             >
               <ImYoutube className="youtube__icon" />
-              <h1 style={{ color: "#ff0000" }}>Youtube</h1>
+              <h1 style={{ color: "#fff" }}>Youtube</h1>
             </a>
             <a
               target="_blank"
@@ -50,7 +50,7 @@ function contacts() {
               style={{ display: "flex", alignItems: "center" }}
             >
               <ImGithub className="github__icon" />
-              <h1 style={{ color: "#171515" }}>Github</h1>
+              <h1 style={{ color: "#fff" }}>Github</h1>
             </a>
           </Col>
         </Row>
